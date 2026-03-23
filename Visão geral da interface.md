@@ -107,7 +107,7 @@ Os usuários podem ativar e desativar as anotações individualmente.
 
 ## Atividade: Navegação, Listas e Formulários
 
-Nesta atividade, você praticará:
+Nesta atividade, vamos praticar:
 - Navegação no ServiceNow
 - Busca de registros em listas
 - Classificação de listas
@@ -123,3 +123,57 @@ Nesta seção vamos navegar pela interface do ServiceNow e filtrará uma lista.
 2 - Incidente > Open para exibir a lista de todos os registros de incidentes abertos.  
 <img width="317" height="270" alt="image" src="https://github.com/user-attachments/assets/c0a6ded2-76e4-4a89-aa98-ec2db36ca0f5" />
 
+3 - Pesquise todos os registros de incidentes que contenham a palavra "Inativo" no campo "Descrição curta".
+  - Altere o valor do campo "Pesquisar" para "Descrição curta".  
+  - Digite "*Inativo" no campo "Pesquisar".
+  - Pressione a tecla <Enter> no teclado.
+  - Examine os registros retornados pela pesquisa.
+  - Observe quantos registros foram retornados pela pesquisa.
+<img width="612" height="55" alt="image" src="https://github.com/user-attachments/assets/00426d38-5772-4183-aea2-7108ea6a8137" />
+
+4 - Adicione uma condição ao filtro.
+  - Abra o Construtor de Condições selecionando o ícone Filtro no cabeçalho da lista.
+  - Selecione o botão E na condição Descrição curta.
+  - Adicione a nova condição [Categoria] [não é] [Rede].
+  - Selecione o botão Executar.
+<img width="936" height="286" alt="image" src="https://github.com/user-attachments/assets/9bf0fdbf-5551-4a55-8b1b-aab6859236e4" />
+  - Você tem o mesmo número de registros que tinha antes de adicionar a condição de Categoria?
+  - Examine o caminho de navegação. Você vê a nova condição no caminho de navegação?
+
+5 - Remova a condição "A descrição curta contém a condição 'Para baixo'" do caminho de navegação selecionando o ícone "Remover próxima condição" (>) para a condição.
+<img width="613" height="127" alt="image" src="https://github.com/user-attachments/assets/8fe5312b-a610-4f61-91f1-9de5f7522d97" />
+
+6 - Classifique a lista.
+  - Determine por qual coluna a lista está classificada. Procure o indicador de classificação crescente (ícone de seta para cima) ou decrescente (ícone de seta para baixo).
+  - Classifique por "Chamador" em ordem decrescente selecionando o cabeçalho da coluna "Chamador". Pode ser necessário selecionar mais de uma vez para obter a ordem de classificação decrescente.
+<img width="769" height="154" alt="image" src="https://github.com/user-attachments/assets/1ac95190-8232-473e-b375-f349a7924a31" />
+
+### Formulários
+
+Nesta seção vamos abrir e explorar um formulário.  
+
+1 - Abra qualquer registro de Incidente selecionando o link na coluna Número da Lista de Incidentes.
+2 - Examine os campos do formulário e observe o layout de duas colunas.
+3 - Role a página para baixo até as seções do formulário e examine a seção Notas. O campo Atividades deve conter pelo menos uma entrada.
+4 - Mude para a seção Informações de Resolução (guia). Como você abriu um registro ativo, os campos da seção Informações de Resolução devem estar vazios.
+5 - Altere a visualização para a visualização de Autoatendimento.
+  - No cabeçalho do formulário, abra o menu Ações adicionais e selecione Exibir > Autoatendimento.
+  - Examine o formulário na visualização de Autoatendimento. Ele é igual à visualização Padrão?
+  - Procure as seções Notas e Informações de Resolução. Elas fazem parte da visualização de Autoatendimento?
+  - Altere a visualização de volta para a visualização Padrão.
+
+---
+
+## Conceitos básicos
+
+• A interface do usuário do ServiceNow é composta por: Banner e Quadro de conteúdo
+• Use os menus de navegação no banner para abrir o conteúdo no quadro de conteúdo.
+• O menu "Todos" utiliza a estrutura Aplicativo > Módulo para acessar o conteúdo.
+• Os módulos em um aplicativo podem ser agrupados por categoria, resultando na estrutura Aplicativo > Categoria > Módulo.
+• As listas exibem registros de uma tabela.
+• As listas podem ser: Pesquisáveis, Classificáveis, Editáveis ​​(se as permissões permitirem)
+• Os filtros exibem um subconjunto dos registros de uma tabela.
+• Os formulários são usados ​​para criar e editar registros.
+• As visualizações são diferentes layouts dos dados de um registro.
+
+---
