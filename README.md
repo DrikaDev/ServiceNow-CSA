@@ -9,14 +9,14 @@ Este repositório foi criado para registrar o meu roteiro de estudos para atingi
 - [O que é ServiceNow?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/1%20-%20O%20que%20%C3%A9%20ServiceNow.md)  
 - [Visão geral da interface da plataforma do usuário (Xanadu)](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/3%20-%20Vis%C3%A3o%20geral%20da%20interface.md)  
 - [Funcionalidades e serviços](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/5%20-%20Funcionalidades%20e%20servi%C3%A7os.md)  
-- [O que são instâncias?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/2%20-%20O%20que%20s%C3%A3o%20inst%C3%A2ncias.md)  
-- Navegação unificada
+- [Navegação unificada](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/6%20-%20Navega%C3%A7%C3%A3o%20unificada.md)  
 - [Interface e Navegação](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/4%20-%20Interface%20e%20Navega%C3%A7%C3%A3o.md)  
 
 ⚙️ 2. Configuração da Instância (10%)  
-Instalação de apps e plugins  
-Customização da instância  
-Interfaces de usuário  
+- [O que são instâncias?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/2%20-%20O%20que%20s%C3%A3o%20inst%C3%A2ncias.md)  
+- [Instalação de apps e plugins](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/7%20-%20Instala%C3%A7%C3%A3o%20de%20apps%20e%20plugins.md)  
+- [Customização da instância](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/8%20-%20Customiza%C3%A7%C3%A3o%20da%20inst%C3%A2ncia.md)  
+- [Interfaces de usuário ](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/9%20-%20Interfaces%20de%20usu%C3%A1rio.md)  
 
 🤝 3. Aplicações para Colaboração (20%)  
 Listas, filtros e tags  
