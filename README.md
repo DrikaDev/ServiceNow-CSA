@@ -8,9 +8,10 @@ Este repositório foi criado para registrar o meu roteiro de estudos para atingi
 ## 🧩 1. Visão Geral e Navegação (7%)  
 - [O que é ServiceNow?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/1%20-%20O%20que%20%C3%A9%20ServiceNow.md)  
 - [Visão geral da interface da plataforma do usuário (Xanadu)](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/3%20-%20Vis%C3%A3o%20geral%20da%20interface.md)  
-- Funcionalidades e serviços  
+- [Funcionalidades e serviços](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/5%20-%20Funcionalidades%20e%20servi%C3%A7os.md)  
 - [O que são instâncias?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/2%20-%20O%20que%20s%C3%A3o%20inst%C3%A2ncias.md)  
-- Navegação unificada  
+- Navegação unificada
+- [Interface e Navegação](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/4%20-%20Interface%20e%20Navega%C3%A7%C3%A3o.md)  
 
 ⚙️ 2. Configuração da Instância (10%)  
 Instalação de apps e plugins  
