@@ -1,4 +1,4 @@
-## Visão geral da interface da plataforma do usuário do ServiceNow (Xanadu)
+## Visão geral da interface da plataforma (Xanadu)
 
 ## A interface do usuário do ServiceNow possui dois componentes:  
 
