@@ -166,14 +166,18 @@ Nesta seção vamos abrir e explorar um formulário.
 
 ## Conceitos básicos
 
-• A interface do usuário do ServiceNow é composta por: Banner e Quadro de conteúdo
-• Use os menus de navegação no banner para abrir o conteúdo no quadro de conteúdo.
-• O menu "Todos" utiliza a estrutura Aplicativo > Módulo para acessar o conteúdo.
-• Os módulos em um aplicativo podem ser agrupados por categoria, resultando na estrutura Aplicativo > Categoria > Módulo.
-• As listas exibem registros de uma tabela.
-• As listas podem ser: Pesquisáveis, Classificáveis, Editáveis ​​(se as permissões permitirem)
-• Os filtros exibem um subconjunto dos registros de uma tabela.
-• Os formulários são usados ​​para criar e editar registros.
-• As visualizações são diferentes layouts dos dados de um registro.
+• A interface do usuário do ServiceNow é composta por: Banner e Quadro de conteúdo  
+• Use os menus de navegação no banner para abrir o conteúdo no quadro de conteúdo.  
+• O menu "Todos" utiliza a estrutura Aplicativo > Módulo para acessar o conteúdo.  
+• Os módulos em um aplicativo podem ser agrupados por categoria, resultando na estrutura Aplicativo > Categoria > Módulo.  
+• As listas exibem registros de uma tabela.  
+• As listas podem ser: Pesquisáveis, Classificáveis, Editáveis ​​(se as permissões permitirem)  
+• Os filtros exibem um subconjunto dos registros de uma tabela.  
+• Os formulários são usados ​​para criar e editar registros.  
+• As visualizações são diferentes layouts dos dados de um registro.  
+
+---
+
+👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/README.md)📒
 
 ---
