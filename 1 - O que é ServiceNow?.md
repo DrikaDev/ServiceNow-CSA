@@ -1,4 +1,4 @@
-## 1 - O que é ServiceNow?
+## O que é ServiceNow?
 
 ServiceNow é uma plataforma baseada em nuvem SaaS (Software as a Service) / PaaS (Platform as a Service) que funciona como um ecosistema orientado a banco de dados, projetado para gerenciar serviços de TI e negócios de forma centralizada.  
 
