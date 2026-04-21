@@ -2,15 +2,42 @@
 
 Este repositório foi criado para registrar o meu roteiro de estudos para atingir o meu objetivo: passar no exame da **CSA**!
 
-Quem tiver interesse em seguir ele on-line basta clicar 👉🏻 [aqui](https://www.servicenow.com/services/training-and-certification/journey/#/)
+- [Por que obter uma certificação ServiceNow?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/Porque%20obter%20uma%20certifica%C3%A7%C3%A3o.md)
+- [Plano de Estudos para o exame CSA - Certified System Administrator](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/Plano%20de%20Estudos%20CSA.md)
 
-Está dividido em 5 items:
-- Discover & Learn  
-- Prepare for exame  
-- Schedule your exame  
-- Before test day
-- Test day
-<img width="1056" height="522" alt="image" src="https://github.com/user-attachments/assets/2e51f9aa-9a4c-479d-b222-524d8fd1d61f" />
+- [O que é ServiceNow?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/1%20-%20O%20que%20%C3%A9%20ServiceNow%3F.md)
+- []()
 
-👉🏻 Os próximos itens: Share your achievement, Understand maintenance requirements e Choose your next credential não fazem parte deste conteúdo no momento.
-
+🧩 1. Visão Geral e Navegação (7%)
+Plataforma ServiceNow
+Funcionalidades e serviços
+Instância
+Navegação unificada
+⚙️ 2. Configuração da Instância (10%)
+Instalação de apps e plugins
+Customização da instância
+Interfaces de usuário
+🤝 3. Aplicações para Colaboração (20%)
+Listas, filtros e tags
+Formulários
+Gestão de tarefas
+Quadros visuais (CTVs)
+Dashboards e relatórios
+Notificações
+🤖 4. Autosserviço e Automação (20%)
+Gestão do Conhecimento
+Catálogo de Serviços
+Flow Designer
+Agente Virtual
+🔐 5. Banco de Dados e Segurança (30%)
+Estrutura de dados
+Controle de acesso (ACL)
+Importação de dados
+CMDB e CSDM
+Segurança
+Modelo de responsabilidade compartilhada
+🔄 6. Migração e Integração (13%)
+UI Policies
+Business Rules
+Update Sets
+Scripts no ServiceNow
