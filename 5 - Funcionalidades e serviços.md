@@ -1,4 +1,6 @@
-## User Interface (UI) & Configuração
+## Funcionalidades e serviços
+
+## 1. User Interface (UI) & Configuração
 
 A interface é o ponto de entrada para usuários e administradores.  
 A personalização garante que a plataforma atenda à identidade visual e às necessidades operacionais da empresa.
