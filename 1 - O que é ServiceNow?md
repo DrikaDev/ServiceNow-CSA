@@ -1,7 +1,6 @@
-## Capítulo 1 - O que é ServiceNow?
+## 1 - O que é ServiceNow?
 
-ServiceNow é uma plataforma baseada em nuvem SaaS (Software as a Service) / PaaS (Platform as a Service) que funciona como um ecosistema orientado a banco de 
-dados, projetado para gerenciar serviços de TI e negócios de forma centralizada.  
+ServiceNow é uma plataforma baseada em nuvem SaaS (Software as a Service) / PaaS (Platform as a Service) que funciona como um ecosistema orientado a banco de dados, projetado para gerenciar serviços de TI e negócios de forma centralizada.  
 
 👉🏻 Exemplo:  
 Uma empresa precisa gerenciar incidentes, pedidos de hardware, acessos, mudanças, etc.  
@@ -16,8 +15,7 @@ Com ServiceNow: tudo centralizado em um banco de dados inteligente com interface
   > ITIL é um *framework de boas práticas* que ensina como gerenciar / entregar serviços de TI com qualidade, valor e organização.  
   > Ex: Usuário está sem acesso ao sistema e abre um chamado.  
   > Sem ITIL: Cada um resolve de um jeito, sem padrão.  
-  > Com ITIL: Existe processo de Incident Management com prioridade e SLA (Service Level Agreement - *Acordo de Nível de Serviço* que define em quanto tempo um
-  serviço deve ser entregue, exemplo: resolver em 4 horas)  
+  > Com ITIL: Existe processo de Incident Management com prioridade e SLA (Service Level Agreement - *Acordo de Nível de Serviço* que define em quanto tempo um serviço deve ser entregue, exemplo: resolver em 4 horas)  
 
 - usada para:
   - ITSM: gerenciamento de incidente, problemas e mudanças
@@ -34,6 +32,12 @@ Com ServiceNow: tudo centralizado em um banco de dados inteligente com interface
 - campos (fields): as colunas ou atributos
 
 ### O exame CSA cobra:
-- Entedimento da plataforma como banco de dados
+- Entendimento da plataforma como banco de dados
 - Relação entre tabelas e aplicações
 - Diferença entre *configuração* (UI, dicionário, políticas x *customização* (scripts completos)
+
+---
+
+👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/README.md)📒
+
+---
