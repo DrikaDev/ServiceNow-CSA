@@ -199,8 +199,12 @@ As questões são baseadas em:
 - Ganha um selo digital (Credly)  
 
 ### 🔄 Manutenção:
+
 - Exames anuais (delta)  
-- Pagamento do programa CMP  
+- Pagamento do programa **CMP - Certification Maintenance Program** (Programa de Manutenção de Certificação), taxa para manter sua certificação ativa.  
+
+> A certificação CSA é mantida através de delta exams a cada nova release do ServiceNow, onde estudamos apenas as novidades da versão.
+> Isso garante que o profissional esteja sempre atualizado com a plataforma.
 
 ---
 
@@ -208,4 +212,10 @@ As questões são baseadas em:
 
 - Revisar conteúdos e treinamentos  
 - Respeitar o tempo de espera entre tentativas  
-- Pagar nova taxa  
+- Pagar nova taxa
+
+---
+
+👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/README.md)📒
+
+---
