@@ -1,7 +1,6 @@
 ## 🛣️ Minha jornada de estudo para CSA!
 
-Este repositório foi criado para registrar o meu roteiro de estudos para atingir o meu objetivo: passar no exame da **CSA**!
-> Aceito sugestões / críticas construtivas
+Este repositório documenta minha jornada de aprendizado em ServiceNow, reunindo teoria e prática por meio de atividades realizadas na plataforma, com foco na evolução profissional e na aprovação no exame da CSA (Certified System Administrator).  
 
 - [Por que obter uma certificação ServiceNow?](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/Porque%20obter%20uma%20certifica%C3%A7%C3%A3o.md)
 - [Plano de Estudos para o exame CSA - Certified System Administrator](https://github.com/DrikaDev/ServiceNow-CSA/blob/main/Plano%20de%20Estudos%20CSA.md)
